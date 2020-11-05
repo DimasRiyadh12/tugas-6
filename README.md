@@ -37,7 +37,8 @@ Penggunaan END Penggunaan end digunakan untuk menambahkan karakter yang dicetak 
 `print('z')`
 Hasil dari source code tersebut seperti gambar dibawah ini :
 
-outputend
+![Screenshot (26)](https://user-images.githubusercontent.com/73042485/98192790-46c29700-1f4e-11eb-999a-7c534b4f7895.png)
+
 
 Penggunaan separator
 >Pendeklarasian beberapa variable beserta nilainya
